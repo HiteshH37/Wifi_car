@@ -17,3 +17,5 @@ Refer circuit diagram(JPEG file) for connections.
 The whole system is controlled by Blynk IOT application.
 
 For Blynk library:https://github.com/vshymanskyy/blynk-library-python.git
+
+For servo library check out my servo.py module 
